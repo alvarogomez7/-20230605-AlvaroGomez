@@ -1,0 +1,14 @@
+
+  Id CommandLine
+  -- -----------
+   1 try { . "c:\Users\alvar\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\browser\me...
+   2 git status
+   3 git add .
+   4 git add .
+   5 git commit -m "commit 03 de AlvaroGomez"
+   6 git push origin feature02
+   7 git checkout main
+   8 mv comandos.txt comandosUtilizados.txt
+
+
+PS C:\Users\alvar\20230605-AlvaroGomez\-20230605-AlvaroGomez> 
